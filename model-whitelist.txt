@@ -2,3 +2,4 @@
 /content/ComfyUI/models/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors
 /content/ComfyUI/models/clip_vision/clip_vision_h.safetensors
 /content/ComfyUI/models/vae/wan_2.1_vae.safetensors
+/content/ComfyUI/models/loras/model_20250530_230232.safetensors
