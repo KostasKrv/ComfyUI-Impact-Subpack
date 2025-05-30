@@ -1,0 +1,4 @@
+/content/ComfyUI/models/unet/wan2.1-i2v-14b-480p-Q4_0.gguf
+/content/ComfyUI/models/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors
+/content/ComfyUI/models/clip_vision/clip_vision_h.safetensors
+/content/ComfyUI/models/vae/wan_2.1_vae.safetensors
